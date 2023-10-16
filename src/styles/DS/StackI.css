@@ -1,0 +1,64 @@
+.page{
+    display: flex;
+    margin: 4px;
+
+}
+
+.content{
+    margin: 20px;
+    padding: 10px;
+}
+
+.content h2{
+    color: #2c2f33;
+    background-color: #FFF;
+    text-decoration: underline;
+}
+
+.main-content{
+    padding: 20px;
+}
+
+.writing{
+    margin: 10px;
+    padding: 10px;
+}
+
+.writing ul{
+    background-color: #FFF;
+}
+
+.writing li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color:#2c2f33;
+    list-style: disc;
+    background-color: #FFF;
+}
+
+.writing p{
+    line-height: 1.4;
+    font-weight: 500;
+}
+
+.methods{
+    margin: 7px;
+    padding: 25px;
+}
+
+.main-content button{
+    position: absolute;
+    left: 700px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+    background-color: #2c2f33;
+    color:#FFF; 
+    border-radius: 10px;
+
+}
+
+.main-content button:hover{
+    background-color: rgba(244, 247, 247, 0.8);
+    color: rgb(8, 1, 1);
+}

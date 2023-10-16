@@ -1,38 +1,57 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+:root{
+  --color1: #001524;
+  --color2: #445D48;
+  --color3: #D6CC99;
+  --color4: #FDE5D4;
+  --color1-tint: #001524;
+  --color2-tint: #364a3a;
+  --color3-tint: #d6cc99;
+  --gradient1: linear-gradient(45deg,rgb(0, 21, 36) 0%,rgb(68, 93, 72) 100%);
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto",sans-serif;
+  font-weight: 300;
+  background-color: #FFFFFF;  
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1{
+  color: #2c2f33;
+  font-family: "Dela Gothic One",sans-serif;
+  font-weight: 400;
+  font-size: 48px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+h3{
+  font-family: "Poppins",sans-serif;
+  font-weight: 600;
+  font-size: 24px;
 }
 
-.App-link {
-  color: #61dafb;
+p{
+  color: #2c2f33;
+  line-height: 1;
+  font-family: "Poppins",sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  margin-top: 10px
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+a{
+  text-decoration: none;
+}
+
+li{
+  list-style: none;
 }

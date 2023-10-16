@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    margin: 30px;
+}
+
+.topics h2, p{
+    background-color: white;
+    color: #2c2f33;
+}
+ 
+
+.data-structure .algorithm{
+    margin: 10px;
+    margin-top: 30px;
+}
+
+.topic{
+    display: flex;
+    flex-direction: column;
+    margin: 20px; 
+}
+
+.topics {
+    display: inline-block;
+    height: 150px;
+    border: #2c2f33 solid;
+    border-radius: 20px;   
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+}
+
+.searchbar{
+    margin: 20px;
+}
+
+.searchbar input{
+    margin: 10px;
+    padding: 15px;
+    height: 45px;
+    width: 400px;
+    border-radius: 15px;
+}
+
+.searchbar button{
+    margin: 0px;
+    height: 45px;
+    border: #aaa9a9 solid;
+    border-radius: 15px;
+    background-color: white;
+    color: #2c2f33;
+    font-weight: 600;
+}
+ 
