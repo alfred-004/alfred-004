@@ -1,53 +1,46 @@
-<!-- Profile README for alfredshajan -->
+# 👋 Hi, I'm Alfred
 
-<h1 align="center">Hi, I'm Alfred 👋</h1>
+I'm a Computer Engineering student who enjoys building tools that actually help people.
+
+- Currently learning: Compiler Design, DSA, Flutter
+- Interests: Accessibility tech, AI for law & forensics, privacy-aware software
+- Daily tools: Neovim, Arch Linux, Git, Docker
+- Also: CLI > GUI. Fight me.
+
+---
+
+## ⚙️ Tech I Use
+
+**Languages:**  
+C++, Java, Python, TypeScript, React Native, SQL
+
+**Frameworks & Tools:**  
+Next.js, Flutter, Django, Jetpack Compose, PostgreSQL, Firebase
+
+**Other stuff I care about:**  
+Whisper, Hugging Face Transformers
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-🎓 B.Tech in Computer Engineering
-<br>
-🔬 I build socially useful tools: Accessibility, AI for Law, Cyber Forensics  
-<br>
-🌱 Currently exploring: DSA | Compiler Design | Flutter | AI Infra
+  <img src="https://github-readme-stats.vercel.app/api?username=alfred-004&show_icons=true&theme=gruvbox" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfred-004&layout=compact&theme=gruvbox" height="160" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 📫 Reach Out
 
-- 💻 **Languages:** `C++`, `Python`, `TypeScript`, `Kotlin`, `SQL`
-- 🧠 **Frameworks/Libraries:** `Next.js`, `Flutter`, `Django`, `Jetpack Compose`
-- 🛠️ **Tools:** `Neovim`, `Arch Linux`, `Docker`, `Git`, `PostgreSQL`, `Firebase`
-- 🔊 **Speech/AI:** `Whisper`, `Transformers`, `Hugging Face`, `OpenCV`
+- Email: [alfredshajan0@gmail.com](mailto:alfredshajan0@gmail.com)  
+- LinkedIn: [linkedin.com/in/alfred-shajan-77235a254](https://www.linkedin.com/in/alfred-shajan-77235a254/)
 
 ---
 
-### 📊 GitHub Stats
+> I'm always up for learning something new or collaborating on tech that matters.  
+> Let’s build something that makes a difference.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfredshajan&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfredshajan&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alfredshajan&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🔗 Connect with Me
-
-- 📫 Email: [your-email@example.com](mailto:alfredshajan0@gmail.com)
-- 💼 [LinkedIn]([https://linkedin.com/in/alfredshajan](https://www.linkedin.com/in/alfred-shajan-77235a254/))
-
----
-
-### 🤝 Let's Collaborate!
-
-> Always open to collaborating on impactful, ethical tech that benefits people.
->
-> Feel free to reach out if you want to build something together!
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
